@@ -41,11 +41,11 @@ INSTALLED_APPS = [
     'acuser',
 
     
-    'crispy_forms',
+    
     'rest_framework',
 ]
 
-CRISPY_TEMPLATE_PACK = 'bootstrap4'
+
 
 REST_FRAMEWORK = {
     # Use Django's standard `django.contrib.auth` permissions,
